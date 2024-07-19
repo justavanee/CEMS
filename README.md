@@ -19,7 +19,7 @@ Make sure you have Python, MySQL and Django installed on your system.
 
 Clone the repo
 ```bash
-git clone https://github.com/jyolx/CEMS.git
+git clone https://github.com/justavanee/CEMS.git
 ```
 Navigate to the src directory and install all required python packages
 ```bash
