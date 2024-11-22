@@ -112,8 +112,8 @@ This project was done under our Database Systems Course.
 <a href="https://github.com/meghahaa">
   <img src="https://github.com/meghahaa.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
 </a>
-<a href="https://github.com/deshna2thunga0">
-  <img src="https://github.com/deshna2thunga0.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
+<a href="https://github.com/deshnalovestats">
+  <img src="https://github.com/deshnalovestats.png" alt="Alt Text" style="border-radius: 50%; width: 60px">
 </a>
 
 
